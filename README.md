@@ -7,6 +7,6 @@ Then inspect the element of the table and copy this element. Once copied, paste 
 
 Once copied run the file and the csv file should be created. 
 
-Rename the csv as "fin_viz_MM_DD_YY" then move the document to the "Fin_Viz_Sceapes" folder. 
+Rename the csv as "fin_viz_MM_DD_YY" then move the document to the "Fin_Viz_Scrapes" folder. 
 
 Analyze the results in your CSV file through the valuation tool. 
